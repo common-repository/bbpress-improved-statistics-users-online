@@ -1,0 +1,34 @@
+label.checkbox_multi {
+    margin-right: 10px;
+}
+
+label.label-radio {
+    margin-right: 6px;
+}
+
+input.number-box {
+    width: 50px;
+}
+
+span.description {
+    display: inline-block;
+    width: 50%;
+}
+
+a.nav-tab.nav-tab-info {
+    float: right;
+}
+
+#debug_data {
+    width: 50%;
+    height: 250px;
+    background-color: white;
+}
+
+#bbpress-advanced-statistics-info div span {
+    font-weight: bold;
+}
+
+#debug_info {
+    margin-top: 25px;
+}
